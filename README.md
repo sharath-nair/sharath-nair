@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- I am a frontend engineer with over a decade of IT experience, including 7 years in web development and 3 years in the web3/crypto space.
-- I have led and contributed to projects that drove significant growth, such as a DeFi protocol that saw a 6000% increase in total volume. 🌱
+- I am a software engineer with over a decade of IT experience, including 7 years in web development and 3 years in the web3/crypto space.
 - I excel at creating seamless user experiences, collaborating with cross-functional teams, and mentoring peers to achieve high-quality results.
+- I have led and contributed to projects that drove significant growth, such as a DeFi protocol that saw a 6000% increase in total volume. 🌱
 - With over 5 years of remote work experience, I am adept at working independently and excelling in distributed teams. I am particularly keen on exploring the practical applications of blockchain technology, as I believe decentralization will play a pivotal role in the future.
 
 
@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
